@@ -1,0 +1,6 @@
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/correrTests.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/gtest_main.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/gtest.dir

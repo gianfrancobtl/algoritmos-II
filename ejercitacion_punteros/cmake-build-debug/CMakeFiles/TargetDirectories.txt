@@ -1,0 +1,12 @@
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/ej5_correrValgrind.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/ej2_correrValgrind.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/ej1.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/ej6.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/ej7.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/ej4.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/ej3.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/ej3_correrValgrind.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/gtest_main.dir
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/cmake-build-debug/CMakeFiles/gtest.dir

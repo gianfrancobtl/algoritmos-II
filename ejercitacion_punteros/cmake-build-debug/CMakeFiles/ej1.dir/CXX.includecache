@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/ConexionJugador.h
+Internet.h
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/Internet.h
+string
+-
+
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/Internet.h
+list
+-
+utility
+-
+string
+-
+
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/Proxy.h
+ConexionJugador.h
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/ConexionJugador.h
+string
+-
+
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/Proxy2.h
+ConexionJugador.h
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/ConexionJugador.h
+string
+-
+
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/SistemaDeMensajes.cpp
+SistemaDeMensajes.h
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/SistemaDeMensajes.h
+
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/SistemaDeMensajes.h
+ConexionJugador.h
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/ConexionJugador.h
+string
+-
+Proxy.h
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/Proxy.h
+Proxy2.h
+/Users/gianbattolla/Documents/Año 2021 - Cs. de la Computación/Algoritmos II/Labo/ejercitacion_punteros/src/Proxy2.h
+
